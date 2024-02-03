@@ -23,7 +23,7 @@ python3 prices_by_scrap.py --help
 ## runme.py
 This file is **meant to be changed by the user**. By default, it scraps for France and save the data in a folder named `result`.
 
-# settings.py
+## settings.py
 You can also modify this file for **deep settings changes**.
 However it is not recommended because you may confuse the program if not done properly.
 
