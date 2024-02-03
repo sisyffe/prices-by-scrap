@@ -5,7 +5,7 @@ from typing import Literal
 from ssphlib.log import LogLevels
 
 # Website
-# https://www.regelleistung.net/apps/datacenter/tenders/?productTypes=PRL&markets=BALANCING_CAPACITY&date=2022-12-31&tenderTab=PRL$CAPACITY$1
+# https://www.regelleistung.net/apps/datacenter/tenders/?productTypes=PRL&markets=BALANCING_CAPACITY&date=2024-02-01&tenderTab=PRL$CAPACITY$1
 
 # Constants
 PYTHON_EXECUTABLE = f"python{str(ver) if (ver := sys.version_info.major) >= 3 else ''}"
